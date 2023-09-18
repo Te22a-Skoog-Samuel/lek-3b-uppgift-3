@@ -5,8 +5,9 @@ background-color:#35424a
 }
 
 .rubrik{
-color: rgba(208, 52, 0.961)
-
+color: rgba(208, 52, 0.961);
+margin-right: 7px;
+margin-left: 100px;
 
 }
 
@@ -19,7 +20,18 @@ flex-direction: row;
 .container{
 
 }
+.nav{
+    float: right;
+    margin: 10px;
 
-.rubrik 2{
+}
+
+.rubrik_2{
+    color: white; 
+
+}
+
+.HEM{
+    
 
 }
